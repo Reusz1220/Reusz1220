@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reusz1220
 - 👀 I’m interested in IT and programming 
-- 🌱 I’m currently learning JAVA, PYTHON etc...
+- 🌱 I’m currently learning JAVA, JTML, CSS.
 - 💞️ I’m looking to collaborate on many servers
 - 📫 How to reach me Discord, Twitch
 
